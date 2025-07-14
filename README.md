@@ -30,16 +30,6 @@ Currently exploring advanced backend architectures, DevOps, and contributing to 
 
 [![amahdiou's 42 stats](https://badge.mediaplus.ma/binary/amahdiou)](https://github.com/oakoudad/badge42)
 
----
-
-## 📈 My Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drokee&theme=default&hide_border=false)](https://git.io/streak-stats)  
-[![drokee's GitHub stats](https://github-readme-stats.vercel.app/api?username=drokee&show_icons=true&theme=default)](https://github.com/drokee/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drokee&layout=compact)](https://github.com/drokee/github-readme-stats)
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Banner" />
 </p>
