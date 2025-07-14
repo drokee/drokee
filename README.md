@@ -26,9 +26,9 @@ Currently exploring advanced backend architectures, DevOps, and contributing to 
 
 ---
 
-## 🎫 My Badge
+## 🎫 My 42 Badge
 
-[![amahdiou's 42 stats](https://badge.mediaplus.ma/darkblue/amahdiou)](https://github.com/oakoudad/badge42)
+[![amahdiou's 42 stats](https://badge.mediaplus.ma/binary/amahdiou)](https://github.com/oakoudad/badge42)
 
 ---
 
@@ -43,4 +43,3 @@ Currently exploring advanced backend architectures, DevOps, and contributing to 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Banner" />
 </p>
-
