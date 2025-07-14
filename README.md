@@ -7,12 +7,6 @@
 <h3 align="center">Junior Software Engineer | Full Stack Developer from Morocco 🇲🇦</h3>
 
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/binary/amahdiou" alt="amahdiou's 42 stats" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=drokee&label=Profile%20Views&color=0&icon=5&pretty=true" />
   </a>
@@ -45,19 +39,21 @@
 
 ---
 
+## 🎓 My 42 Badge
+
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/amahdiou" alt="amahdiou's 42 stats" />
+  </a>
+</p>
+
+---
+
 ### 🧩 Skills & Tools
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelillah-mahdioui-913997193/)
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,django,fastapi,postgresql,docker,github,git,linux,cpp,c,figma)](https://skillicons.dev)
-
----
-
-### 📈 My GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drokee&theme=default&hide_border=false)](https://git.io/streak-stats)  
-[![drokee's GitHub stats](https://github-readme-stats.vercel.app/api?username=drokee&show_icons=true&theme=default)](https://github.com/drokee/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drokee&layout=compact)](https://github.com/drokee/github-readme-stats)
 
 ---
 
